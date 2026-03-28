@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+google-genai
+sentence-transformers
+chromadb
+newspaper3k
+lxml_html_clean
+PyMuPDF
+python-multipart
+requests
+beautifulsoup4
+pydantic
+lxml
+python-dotenv

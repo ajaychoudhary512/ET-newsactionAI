@@ -8,7 +8,7 @@
 </div>
 <br>
 
-> **Turn News Into Action. For Everyone.**
+> **Turn News Into Action. For Everyone**
 
 ## Problem Statement
 
